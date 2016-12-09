@@ -6,7 +6,7 @@
           content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <title>My App</title>
+    <title>书友</title>
     <link rel="stylesheet" href="css/framework7.ios.css">
     <link rel="stylesheet" href="css/my-app.css">
     <link rel="stylesheet" href="css/hn7.css">
@@ -40,9 +40,8 @@
                 </div>
             </div>
         </div>
-
         <div class="pages navbar-through">
-            <div data-page="index-1" class="page">
+            <div data-page="search" class="page">
                 <!-- Search bar -->
                 <form class="searchbar searchbar-init" data-search-list=".list-block-search"
                       data-search-in=".item-title" data-searchbar-found=".searchbar-found"
@@ -77,7 +76,7 @@
             <div class="navbar-inner">
                 <div class="center sliding">消息</div>
                 <div class="right">
-                    <a href="#" class="link icon-only open-panel">
+                    <a href="#" class="link icon-only open-panel" data-panel="right">
                         <i class="icon icon-bars"></i>
                     </a>
                 </div>
@@ -106,6 +105,13 @@
                                     </div>
                                 </div>
                             </a></li>
+                         <li><a href="people.html" class="item-link">
+                                <div class="item-content">
+                                    <div class="item-inner">
+                                        <div class="item-title">People</div>
+                                    </div>
+                                </div>
+                            </a></li>
                         </ul>
                     </div>
                 </div>
@@ -117,7 +123,7 @@
             <div class="navbar-inner">
                 <div class="center sliding">动态</div>
                 <div class="right">
-                    <a href="#" class="link icon-only open-panel">
+                    <a href="#" class="link icon-only open-panel" data-panel="right">
                         <i class="icon icon-bars"></i>
                     </a>
                 </div>
@@ -128,23 +134,7 @@
                 <div class="page-content">
                     <div class="content-block-title">Another plain static view</div>
                     <div class="content-block">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel commodo massa, eu
-                            adipiscing mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-                            inceptos himenaeos. Phasellus ultricies dictum neque, non varius tortor fermentum at.
-                            Curabitur auctor cursus imperdiet. Nam molestie nisi nec est lacinia volutpat in a purus.
-                            Maecenas consectetur condimentum viverra. Donec ultricies nec sem vel condimentum. Phasellus
-                            eu tincidunt enim, sit amet convallis orci. Vestibulum quis fringilla dolor. </p>
-                        <p>Mauris commodo lacus at nisl lacinia, nec facilisis erat rhoncus. Sed eget pharetra nunc.
-                            Aenean vitae vehicula massa, sed sagittis ante. Quisque luctus nec velit dictum convallis.
-                            Nulla facilisi. Ut sed erat nisi. Donec non dolor massa. Mauris malesuada dolor velit, in
-                            suscipit leo consectetur vitae. Duis tempus ligula non eros pretium condimentum. Cras sed
-                            dolor odio.</p>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel commodo massa, eu
-                            adipiscing mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-                            inceptos himenaeos. Phasellus ultricies dictum neque, non varius tortor fermentum at.
-                            Curabitur auctor cursus imperdiet. Nam molestie nisi nec est lacinia volutpat in a purus.
-                            Maecenas consectetur condimentum viverra. Donec ultricies nec sem vel condimentum. Phasellus
-                            eu tincidunt enim, sit amet convallis orci. Vestibulum quis fringilla dolor. </p>
+
                     </div>
                 </div>
             </div>
@@ -155,7 +145,7 @@
             <div class="navbar-inner">
                 <div class="center sliding">我的</div>
                 <div class="right">
-                    <a href="#" class="link icon-only open-panel">
+                    <a href="#" class="link icon-only open-panel" data-panel="right">
                         <i class="icon icon-bars"></i>
                     </a>
                 </div>
@@ -311,9 +301,8 @@
         </div>
     </div>
 </div>
-<!-- Path to Framework7 Library JS-->
+
 <script type="text/javascript" src="js/framework7.js"></script>
-<!-- Path to your app js-->
 <script type="text/javascript" src="js/my-app.js"></script>
 </body>
 </html>
