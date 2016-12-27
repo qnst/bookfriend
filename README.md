@@ -9,6 +9,7 @@
 * 如何鼓励用户上传以及借出自己的书
 * 如何在微信中传播?
 
+![图书馆](https://raw.githubusercontent.com/sniperyen/bookfriend/master/analysis/%E5%9B%BE%E4%B9%A6%E9%A6%86.jpg)
 
 ### 第一期
 
