@@ -1,7 +1,9 @@
 # bookfriend(书友)
+
 > 用framework7实现的一个web-app，帮助用户方便的借到想看的书，以书会友。
 
 ## 需求分析
+
 帮助用户方便的借到想看的书,只要有可以借出的书,每个人就是一个私人图书馆.
 
 * 用户人群是哪些?
@@ -27,10 +29,19 @@
 * 找不到的图书,导流到线上书店购买
 
 ## 涉及到相关技术
+
+前后端分离,后端只是提供api,前端通过ajax调用,然后通过vue来双向绑定数据.
+
 ### 后端
-* web框架: django
+* web框架: django + restfulapi
 * 数据库: sqlite(后期迁移到mysql)
 
 ### 前端
 * [framework7](http://framework7.cn/)
 * [vue](http://cn.vuejs.org/)
+
+### 参考文章
+第一次使用framework7和vue.js,尝试前后段分离的开发方式,参考了许多文章,也学习了很多东西,把觉得有价值的文章链接粘贴在下面,供参考:
+
+* [我们为什么要尝试前后端分离](https://segmentfault.com/a/1190000006240370)
+* [从MVC到前后端分离（REST-个人也认为是目前比较流行和比较好的方式）](http://blog.csdn.net/shaobingj126/article/details/49420145)
