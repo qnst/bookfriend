@@ -39,3 +39,9 @@
 ### 前端
 * [framework7](http://framework7.cn/)
 * [vue](http://cn.vuejs.org/)
+
+### 参考文章
+第一次使用framework7和vue.js,尝试前后段分离的开发方式,参考了许多文章,也学习了很多东西,把觉得有价值的文章链接粘贴在下面,供参考:
+
+* [我们为什么要尝试前后端分离](https://segmentfault.com/a/1190000006240370)
+* [从MVC到前后端分离（REST-个人也认为是目前比较流行和比较好的方式）](http://blog.csdn.net/shaobingj126/article/details/49420145)
