@@ -1,7 +1,9 @@
 # coding=utf-8
 from django.conf.urls import patterns, include, url
 from django.conf import settings
-from restfulapi.urls import router
+
+from ..restfulapi.urls import router
+from .. import book
 
 from django.contrib import admin
 admin.autodiscover()

@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from bf_backend.book.models import Category, Book
+from ..book.models import Category, Book
 
 
 class CategorySerializer(serializers.ModelSerializer):

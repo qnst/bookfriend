@@ -27,6 +27,7 @@ INSTALLED_APPS = (
     'xadmin',  # 后台管理 https://github.com/sshwsfc/xadmin
     'restfulapi',  # 向外提供restfulapi服务
     'customer',
+    'book',
     'utils',
 )
 

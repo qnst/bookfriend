@@ -3,7 +3,7 @@
 import django_filters
 from rest_framework import viewsets, filters
 
-from bf_backend.book.models import Category, Book
+from ..book.models import Category, Book
 from serializers import CategorySerializer, ArticleSerializer
 
 
