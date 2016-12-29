@@ -25,11 +25,21 @@ class Profile(object):
 
 
 class MyProfile(Profile):
+    SEX_SET = (
+        (0, '女'),
+        (1, '男'),
+    )
     nickname = models.CharField(max_length=255, blank=True)
     birthday = models.DateTimeField(null=True, blank=True)
+    sex = models.IntegerField(choices=SEX_SET, default=0)
+    location = models.CharField(max_length=255, blank=True)
     city = models.CharField(max_length=30, blank=True)
     university = models.CharField(max_length=255, blank=True)
     # 可以在这里添加auth_user表的扩展字段
 
     def is_today_birthday(self):
         return self.birthday.date() == datetime.date.today()
+
+
+# class Friend(models.Model):
+#     user = models.ForeignKey(User, )

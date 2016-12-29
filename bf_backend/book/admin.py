@@ -1,14 +1,12 @@
 from django.contrib import admin
 
-from .models import Category, Article
+from models import Category, Book
 
 @admin.register(Category)
 class CategoryAdmin(admin.ModelAdmin):
-    exclude = ('id',)
     pass
 
 
-@admin.register(Article)
+@admin.register(Book)
 class ArticleAdmin(admin.ModelAdmin):
-    exclude = ('id',)
     pass

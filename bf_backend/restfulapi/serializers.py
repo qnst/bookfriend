@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import Category, Article
+from bf_backend.book.models import Category, Book
 
 
 class CategorySerializer(serializers.ModelSerializer):
@@ -12,7 +12,7 @@ class ArticleSerializer(serializers.ModelSerializer):
     category = CategorySerializer()
 
     class Meta:
-        model = Article
+        model = Book
         fields = ('title', 'body', 'created_at', 'status', 'category')
 
 

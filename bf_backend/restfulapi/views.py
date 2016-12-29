@@ -3,7 +3,7 @@
 import django_filters
 from rest_framework import viewsets, filters
 
-from .models import Category, Article
+from bf_backend.book.models import Category, Book
 from serializers import CategorySerializer, ArticleSerializer
 
 
@@ -13,7 +13,7 @@ class CategoryViewSet(viewsets.ModelViewSet):
 
 
 class ArticleViewSet(viewsets.ModelViewSet):
-    queryset = Article.objects.all()
+    queryset = Book.objects.all()
     serializer_class = ArticleSerializer
 
     filter_fields = ('author', 'status')

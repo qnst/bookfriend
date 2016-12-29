@@ -20,7 +20,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
 
     # 第三方应用
-    # 'debug_toolbar',  # 调试工具
+    'debug_toolbar',  # 调试工具
     'reversion',  # 为模型提供版本控制功能，稍微配置后，就可以恢复已经删除的模型或回滚到模型历史中的任何一点
     'django_extensions',  # django扩展功能 http://django-extensions-zh.readthedocs.io/zh_CN/latest/command_extensions.html
     'rest_framework',  # 提供api  http://www.django-rest-framework.org/api-guide/

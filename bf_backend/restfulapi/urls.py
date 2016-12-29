@@ -1,6 +1,6 @@
 from django.conf.urls import patterns, url, include
 from rest_framework import routers
-from restfulapi import views
+from . import views
 
 router = routers.DefaultRouter()
 router.register(r'categories', views.CategoryViewSet)

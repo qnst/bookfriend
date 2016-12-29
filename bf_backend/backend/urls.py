@@ -21,7 +21,8 @@ urlpatterns = patterns(
     url(r'^admin/', include(admin.site.urls)),  # 后台管理模块
 
     # restfulapi
-    url(r'^api/', include(router.urls, namespace="restfulapi")),
+    url(r'^api/', include(router.urls, namespace="api")),
+    url(r'^book/', include(book.urls, namespace="book")),
     url(r'^customer/', include(router.urls, namespace="customer")),
     url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework')),
 )
