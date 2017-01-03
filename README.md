@@ -7,9 +7,9 @@
 
 ## 目录说明
 总共有三个子项目，其目录分别为：
-* backend：后端项目，提供restful-api，用法参考其目录下 [README.MD]()
-* frontend: 前端项目，页面的展示，用法参考其目录下的 [README.MD]()
-* book_scrapy: 爬虫，爬取网上的图书信息，用法参考其目录下的 [README.MD]()
+* backend：后端项目，提供restful-api，用法参考其目录下 [README.MD](https://github.com/sniperyen/bookfriend/tree/master/backend)
+* frontend: 前端项目，页面的展示，用法参考其目录下的 [README.MD](https://github.com/sniperyen/bookfriend/tree/master/frontend)
+* book_scrapy: 爬虫，爬取网上的图书信息，用法参考其目录下的 [README.MD](https://github.com/sniperyen/bookfriend/tree/master/book_scrapy)
 
 其它目录说明：
 * docs: 相关设计文档
@@ -26,7 +26,7 @@
 
 ![图书馆](https://raw.githubusercontent.com/sniperyen/bookfriend/master/docs/%E5%9B%BE%E4%B9%A6%E9%A6%86.jpg)
 
-## UML
+## UML(UML在作业部落中用markdown写的，这里显示不正常)
 
 ### 注册登录方式
 
@@ -92,9 +92,12 @@ Note right of 微信服务器: 此步骤可能有问题。。
 ## 开发计划
 ### 第一期
 
+* 图书的爬取
 * 用户的注册和登陆(微信联合登陆)
 * 图书的上传与展示
-* 搜索周边的用户于图书
+* 搜索周边的用户或图书
+* 借书
+* 还书
 * 添加好友
 * 私信
 
@@ -105,14 +108,13 @@ Note right of 微信服务器: 此步骤可能有问题。。
 * 公共图书馆图书借阅
 * 找不到的图书,导流到线上书店购买
 
-
-
 ## 涉及到相关技术
 
 前后端分离,后端只是提供api,前端通过ajax调用,然后通过vue来双向绑定数据.
 
 ### 后端
 * web框架: django + restfulapi
+* 消息的推送: 没想好。。
 * 数据库: sqlite(后期迁移到mysql)
 
 ### 前端
