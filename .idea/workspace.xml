@@ -2,293 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5521d2a-b601-4f5e-b367-421c1599fdc7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/avatars/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/avatars/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/avatars/avatar1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/avatars/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/avatars/avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/avatars/avatar4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/avatars/avatar5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/avatars/profile-pic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/avatars/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/image-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/image-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/image-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/image-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/image-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/image-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/thumb-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/thumb-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/thumb-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/thumb-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/thumb-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/images/gallery/thumb-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/avatars/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/avatars/avatar.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/avatars/avatar1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/avatars/avatar2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/avatars/avatar3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/avatars/avatar4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/avatars/avatar5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/avatars/profile-pic.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/avatars/user.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/font/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/image-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/image-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/image-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/image-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/image-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/image-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/thumb-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/thumb-2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/thumb-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/thumb-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/thumb-5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/images/gallery/thumb-6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/image/UML.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/image/button_style.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/image/unchecked.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/README.MD" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/backend/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/backend/middleware.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/backend/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/backend/wsgi.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/book/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/book/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/book/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/book/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/book/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/customer/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/customer/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/customer/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/customer/templates/customer/changepassword.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/customer/templates/customer/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/customer/templatetags/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/customer/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/customer/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/restfulapi/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/ace-ie.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/ace-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/ace-skins.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/ace.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/bootstrap-editable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/bootstrap-timepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/chosen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/colorbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/daterangepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/dropzone.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/font-awesome-ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/jquery-ui-1.10.3.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/jquery-ui-1.10.3.full.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/jquery.gritter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/css/ui.jqgrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/ace-elements.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/ace-extra.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/ace.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/additional-methods.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/bootbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/bootstrap-colorpicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/bootstrap-tag.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/bootstrap-wysiwyg.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/chosen.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/date-time/bootstrap-datepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/date-time/bootstrap-timepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/date-time/daterangepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/date-time/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/dropzone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/flot/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/flot/jquery.flot.pie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/flot/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/fuelux/data/fuelux.tree-sampledata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/fuelux/fuelux.spinner.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/fuelux/fuelux.tree.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/fuelux/fuelux.wizard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jqGrid/i18n/grid.locale-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jqGrid/jquery.jqGrid.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery-2.0.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery-ui-1.10.3.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery-ui-1.10.3.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.autosize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.colorbox-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.easy-pie-chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.gritter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.hotkeys.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.inputlimiter.1.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.knob.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.maskedinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.mobile.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.nestable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.slimscroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.ui.touch-punch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/markdown/bootstrap-markdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/markdown/markdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/stat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/typeahead-bs2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/x-editable/ace-editable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/assets/js/x-editable/bootstrap-editable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/blank.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/buttons.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/calendar.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/dropzone.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/error-404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/error-500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/faq.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/form-elements.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/form-wizard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/gallery.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/grid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/inbox.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/invoice.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/jqgrid.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/jquery-ui.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/nestable-list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/pricing.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/tables.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/timeline.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/treeview.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/typography.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/widgets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/ace2/wysiwyg.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/ace-ie.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/ace-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/ace-skins.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/ace.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/bootstrap-editable.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/bootstrap-timepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/chosen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/colorbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/colorpicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/datepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/daterangepicker.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/dropzone.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/font-awesome-ie7.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/fonts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/fullcalendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/jquery-ui-1.10.3.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/jquery-ui-1.10.3.full.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/jquery.gritter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/select2.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/css/ui.jqgrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/ace-elements.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/ace-extra.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/ace.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/additional-methods.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/bootbox.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/bootstrap-colorpicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/bootstrap-tag.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/bootstrap-wysiwyg.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/chosen.jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/date-time/bootstrap-datepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/date-time/bootstrap-timepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/date-time/daterangepicker.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/date-time/moment.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/dropzone.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/excanvas.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/flot/jquery.flot.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/flot/jquery.flot.pie.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/flot/jquery.flot.resize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/fuelux/data/fuelux.tree-sampledata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/fuelux/fuelux.spinner.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/fuelux/fuelux.tree.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/fuelux/fuelux.wizard.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/fullcalendar.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/html5shiv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jqGrid/i18n/grid.locale-en.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jqGrid/jquery.jqGrid.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery-2.0.3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery-ui-1.10.3.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery-ui-1.10.3.full.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.autosize.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.colorbox-min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.dataTables.bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.dataTables.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.dataTables.options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.easy-pie-chart.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.gritter.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.hotkeys.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.inputlimiter.1.3.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.knob.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.maskedinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.mobile.custom.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.nestable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.slimscroll.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.sparkline.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.ui.touch-punch.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/jquery.validate.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/markdown/bootstrap-markdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/markdown/markdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/messages_zh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/respond.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/select2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/stat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/typeahead-bs2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/x-editable/ace-editable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/assets/js/x-editable/bootstrap-editable.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/bootstrap/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/js/holder.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/js/jszip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/js/less.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/static/js/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/utils/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/utils/templatetags/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/utils/templatetags/langs.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/utils/util_auth.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/utils/util_decorator.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/utils/util_django.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/backend/utils/util_web.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/bookfriend.iml" afterPath="$PROJECT_DIR$/.idea/bookfriend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/README.MD" afterPath="$PROJECT_DIR$/backend/README.MD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/book/admin.py" afterPath="$PROJECT_DIR$/backend/book/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend/book/models.py" afterPath="$PROJECT_DIR$/backend/book/models.py" />
     </list>
     <ignored path="bookfriend.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -300,6 +18,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/bookfriend$models.coverage" NAME="models Coverage Results" MODIFIED="1483430461965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/backend/book" />
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -310,6 +31,16 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="Sqlite (Xerial) - db.sqlite3" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -332,8 +63,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/backend/restfulapi/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="e#17#38#0" expanded="true" />
               </folding>
@@ -341,27 +72,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/backend/book/models.py">
+      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/book/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+            <state relative-caret-position="270">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding>
-                <element signature="e#124#168#0" expanded="false" />
-                <element signature="e#200#244#0" expanded="false" />
-                <element signature="e#277#840#0" expanded="false" />
-                <element signature="e#300#329#0" expanded="false" />
-                <element signature="e#823#840#0" expanded="false" />
+                <element signature="e#0#32#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/backend/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/backend/book/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="673">
+              <caret line="71" column="10" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="10" />
+              <folding>
+                <element signature="e#3688#3739#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dee1e754-90f2-4306-8bc8-dfb7b0dfbb56/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend/backend/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="e#15#66#0" expanded="true" />
               </folding>
@@ -397,7 +156,10 @@
         <option value="$PROJECT_DIR$/bf_backend/restfulapi/views.py" />
         <option value="$PROJECT_DIR$/bf_backend/backend/settings.py" />
         <option value="$PROJECT_DIR$/bf_backend/backend/urls.py" />
+        <option value="$PROJECT_DIR$/backend/README.MD" />
         <option value="$PROJECT_DIR$/backend/book/models.py" />
+        <option value="$PROJECT_DIR$/backend/book/admin.py" />
+        <option value="$PROJECT_DIR$/backend/backend/urls.py" />
       </list>
     </option>
   </component>
@@ -408,10 +170,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="65" />
+    <option name="x" value="1505" />
     <option name="y" value="24" />
-    <option name="width" value="1375" />
-    <option name="height" value="876" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -486,43 +248,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="customer" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bookfriend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bookfriend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="book" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bookfriend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bookfriend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backend" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -536,7 +262,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../bss" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="url&#9;FILE&#9;file:///home/sy/dev/bookfriend/bf_backend/backend/urls.py&#10;setting&#9;FILE&#9;file:///home/sy/dev/bookfriend/bf_backend/backend/settings.py" />
+    <property name="SearchEverywhereHistoryKey" value="url&#9;FILE&#9;file:///home/sy/dev/bookfriend/backend/backend/urls.py&#10;sett&#9;FILE&#9;file:///home/sy/dev/bookfriend/backend/backend/settings.py&#10;setting&#9;FILE&#9;file:///home/sy/dev/bookfriend/backend/backend/settings.py" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -546,7 +272,25 @@
       <recent name="$PROJECT_DIR$/bf_backend/book" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.models">
+    <configuration default="false" name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/backend/book" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="bookfriend" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/backend/book/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="BashConfigurationType" factoryName="Bash">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="INTERPRETER_PATH" value="/bin/bash" />
@@ -766,6 +510,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.models" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.models" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -788,32 +540,40 @@
       <option name="project" value="LOCAL" />
       <updated>1483002188509</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="数据库设计">
+      <created>1483429178787</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1483429178787</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="24" width="1375" height="876" extended-state="6" />
+    <frame x="1505" y="24" width="1855" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1805869" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22197141" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13266999" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22166944" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297414" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -832,7 +592,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="数据库设计" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -901,7 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/README.MD" />
     <entry file="file://$PROJECT_DIR$/backend/restfulapi/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -909,17 +670,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/db/models/fields/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="1014" column="30" selection-start-line="1014" selection-start-column="30" selection-end-line="1014" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backend/book/views.py" />
     <entry file="file://$PROJECT_DIR$/backend/book/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/backend/book/admin.py" />
-    <entry file="file://$PROJECT_DIR$/backend/book/urls.py" />
     <entry file="dbDummy://dbtable:/cf93ed89/e4245580-d672-4755-9d87-a2a7b2038eb4/auth_user">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -933,11 +685,124 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/customer/models.py" />
-    <entry file="file://$PROJECT_DIR$/backend/backend/settings.py" />
     <entry file="file://$PROJECT_DIR$/../bss/bss/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/backend/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="409" column="0" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/book/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/dee1e754-90f2-4306-8bc8-dfb7b0dfbb56/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="165">
+            <caret line="11" column="3" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/cf93ed89/dee1e754-90f2-4306-8bc8-dfb7b0dfbb56/book_score">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/cf93ed89/dee1e754-90f2-4306-8bc8-dfb7b0dfbb56/category">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/db/models/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="509" column="44" selection-start-line="509" selection-start-column="40" selection-end-line="509" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/db/models/fields/related.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="1596" column="31" selection-start-line="1596" selection-start-column="31" selection-end-line="1596" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="1875" column="0" selection-start-line="1875" selection-start-column="0" selection-end-line="1875" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1247972723/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="236" column="59" selection-start-line="236" selection-start-column="59" selection-end-line="236" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/restfulapi/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -951,52 +816,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/backend/backend/middleware.py">
+    <entry file="file://$PROJECT_DIR$/backend/book/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/restfulapi/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        <state relative-caret-position="673">
+          <caret line="71" column="10" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="10" />
           <folding>
-            <element signature="e#17#38#0" expanded="true" />
+            <element signature="e#3688#3739#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/django/contrib/auth/models.py">
+    <entry file="file://$PROJECT_DIR$/backend/book/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="409" column="0" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend/backend/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/backend/backend/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="240">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="e#15#66#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/backend/book/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding>
-            <element signature="e#124#168#0" expanded="false" />
-            <element signature="e#200#244#0" expanded="false" />
-            <element signature="e#277#840#0" expanded="false" />
-            <element signature="e#300#329#0" expanded="false" />
-            <element signature="e#823#840#0" expanded="false" />
           </folding>
         </state>
       </provider>
