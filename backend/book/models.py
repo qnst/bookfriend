@@ -22,7 +22,7 @@ class Category(BaseModel):
     description = models.TextField('描述', null=True, blank=True)
 
     class Meta:
-        db_table = 'category'
+        db_table = 'b_category'
         verbose_name_plural = verbose_name = '图书类别'
 
 
@@ -31,7 +31,7 @@ class Tag(BaseModel):
     description = models.TextField('描述', null=True, blank=True)
 
     class Meta:
-        db_table = 'tag'
+        db_table = 'b_tag'
         verbose_name_plural = verbose_name = '图书标签'
 
 
@@ -40,7 +40,7 @@ class Author(BaseModel):
     description = models.TextField('描述', null=True, blank=True)
 
     class Meta:
-        db_table = 'author'
+        db_table = 'b_author'
         verbose_name_plural = verbose_name = '作者'
 
 
@@ -50,7 +50,7 @@ class Publisher(BaseModel):
     address = models.CharField('地址', max_length=256, null=True, blank=True)
 
     class Meta:
-        db_table = 'publisher'
+        db_table = 'b_publisher'
         verbose_name_plural = verbose_name = '出版社'
 
 
@@ -93,6 +93,7 @@ class Score(BaseModel):
     book = models.ForeignKey(Book, related_name='b_scores', verbose_name='书本')
 
     class Meta:
+        db_table = 'b_score'
         verbose_name_plural = verbose_name = '评分'
 
     def __unicode__(self):
@@ -105,10 +106,12 @@ class Comment(BaseModel):
     book = models.ForeignKey(Book, related_name='b_comments', verbose_name='书本')
 
     class Meta:
+        db_table = 'b_comment'
         verbose_name_plural = verbose_name = '评论'
 
     def __unicode__(self):
         return self.degree[0, 20]
+
 
 class Checkout(BaseModel):
     CHECKOUT_SET = (
@@ -122,6 +125,7 @@ class Checkout(BaseModel):
     status = models.IntegerField(choices=CHECKOUT_SET, default=0, verbose_name='状态')
 
     class Meta:
+        db_table = 'b_checkout'
         verbose_name_plural = verbose_name = '借书记录'
 
     def __unicode__(self):
