@@ -1,5 +1,6 @@
 ## 安装依赖包
 ```
+mkvirtualenv bookfriend
 pip install -r requirements.txt
 ```
 
