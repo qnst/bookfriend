@@ -9,10 +9,8 @@ class CategorySerializer(serializers.ModelSerializer):
 
 
 class BookSerializer(serializers.ModelSerializer):
-    category = CategorySerializer()
+    # category = CategorySerializer()
 
     class Meta:
         model = Book
-        fields = ('title', 'body', 'created_at', 'status', 'category')
-
-
+        fields = ('title', 'cover', 'description', 'douban_score', 'users', 'tags')

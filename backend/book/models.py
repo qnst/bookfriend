@@ -60,6 +60,7 @@ class Book(BaseModel):
         (1, "显示"),
     )
     title = models.CharField('标题', max_length=128)
+    cover = models.URLField('封面', null=True, blank=True)
     ISBN = models.CharField('ISBN', max_length=50, null=True, blank=True)
     publisher = models.ForeignKey(Publisher, related_name='p_books', verbose_name='出版社', null=True, blank=True)
     publish_date = models.DateField('出版年', null=True, blank=True)

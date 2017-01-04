@@ -18,6 +18,8 @@ python manage.py runserver
 
 ```
 
-## 相关地址
+## demo 地址
 
-* 后台管理系统 http://127.0.0.1:8000/admin   用户名：admin 密码：password
+用户名：admin 密码：password
+* 后台管理系统 http://121.42.58.246:9100/admin   
+* api管理页面: http://121.42.58.246:9100/api/books/  
