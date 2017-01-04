@@ -14,8 +14,8 @@ python manage.py migrate
 
 ## 运行方式
 ```
-python manage.py runserver
-
+python manage.py runserver 0.0.0.0:9100
+# 后台运行方式: nohup python manage.py runserver 0.0.0.0:9100 &
 ```
 
 ## demo 地址
